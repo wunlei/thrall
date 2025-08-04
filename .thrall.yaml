@@ -1,0 +1,6 @@
+attachments_folder: docs/imgs/
+ignore_folders:
+  - ignored_folder
+  - test_folder/test_folder
+  - docs
+all_users: true
