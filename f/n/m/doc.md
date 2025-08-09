@@ -1,12 +1,12 @@
 
-![img](docs/img/Без названия.png)
+![img](docs/img/image.png)
 
-![img](/docs/img/Без названия.png)
+![img](/docs/img/image.png)
 
-![img](../../../docs/img/Без названия.png)
+![img](../../../docs/img/image.png)
 
-![img](/Без названия.png)
+![img](/image.png)
 
-![img](./Без названия.png)
+![img](./image.png)
 
-![img](Без названия.png)
+![img](image.png)
